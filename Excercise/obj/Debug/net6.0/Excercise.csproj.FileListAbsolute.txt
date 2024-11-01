@@ -1,0 +1,15 @@
+D:\PathFindAlgorithm\Excercise\bin\Debug\net6.0\Excercise.exe
+D:\PathFindAlgorithm\Excercise\bin\Debug\net6.0\Excercise.deps.json
+D:\PathFindAlgorithm\Excercise\bin\Debug\net6.0\Excercise.runtimeconfig.json
+D:\PathFindAlgorithm\Excercise\bin\Debug\net6.0\Excercise.dll
+D:\PathFindAlgorithm\Excercise\bin\Debug\net6.0\Excercise.pdb
+D:\PathFindAlgorithm\Excercise\obj\Debug\net6.0\Excercise.csproj.AssemblyReference.cache
+D:\PathFindAlgorithm\Excercise\obj\Debug\net6.0\Excercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\PathFindAlgorithm\Excercise\obj\Debug\net6.0\Excercise.AssemblyInfoInputs.cache
+D:\PathFindAlgorithm\Excercise\obj\Debug\net6.0\Excercise.AssemblyInfo.cs
+D:\PathFindAlgorithm\Excercise\obj\Debug\net6.0\Excercise.csproj.CoreCompileInputs.cache
+D:\PathFindAlgorithm\Excercise\obj\Debug\net6.0\Excercise.dll
+D:\PathFindAlgorithm\Excercise\obj\Debug\net6.0\refint\Excercise.dll
+D:\PathFindAlgorithm\Excercise\obj\Debug\net6.0\Excercise.pdb
+D:\PathFindAlgorithm\Excercise\obj\Debug\net6.0\Excercise.genruntimeconfig.cache
+D:\PathFindAlgorithm\Excercise\obj\Debug\net6.0\ref\Excercise.dll
